@@ -1,7 +1,7 @@
 # MyelomaPrediction
 Supporting code for the manuscript
 
-Development and internal validation of a risk prediction model to identify myeloma based on routine blood tests: a case-control study
+**Development and internal validation of a risk prediction model to identify myeloma based on routine blood tests: a case-control study**
 Lesley Smith, Jonathan Carmichael, Gordon Cook, Bethany Shinkins, Richard D Neal 
 Code written by Lesley Smith 
 
