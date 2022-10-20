@@ -2,7 +2,7 @@
 Supporting code for the manuscript
 
 **Development and internal validation of a risk prediction model to identify myeloma based on routine blood tests: a case-control study**
-Lesley Smith, Jonathan Carmichael, Gordon Cook, Bethany Shinkins, Richard D Neal
+Lesley Smith, Jonathan Carmichael, Gordon Cook, Bethany Shinkins, Richard D Neal  
 Code written by Lesley Smith 
 
 The study used de-identified data from Leeds Teaching Hospitals Trust (LTHT) and we do not have patient consent to share these data. The R code used for data formatting, cleaning and analysis is incuding in the following R scripts: 
