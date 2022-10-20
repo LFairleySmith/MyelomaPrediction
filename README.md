@@ -7,17 +7,12 @@ Code written by Lesley Smith
 
 The study used de-identified data from Leeds Teaching Hospitals Trust (LTHT) and we do not have patient consent to share these data. The R code used for data formatting, cleaning and analysis is incuding in the following R scripts: 
 
-Data cleaning
 1.	FormatPatientData.R Patient level data cleaning and formatting including comorbidities
-2.	FormatBloodTest.R  Blood test data cleaning and formatting all tests in long form  
-3.	FormatCXDara.R Extracting data to include in cross sectional modelling 
-
-Descriptive stats
+2.	FormatBloodTest.R  Blood test data cleaning and formatting all tests in long form
+3.	FormatCXDara.R Extracting data to include in cross sectional modelling
 4.	PatientDescriptiveStats.R Patient descriptive statistic
-5.	BloodTestSummaryStats.R descriptive statistics on number and timing of blood tests   
+5.	BloodTestSummaryStats.R descriptive statistics on number and timing of blood tests
 6.	BloodTestsPlots_90datIntervals.R Blood test results trajectory plots based on means in 90 day intervals
-
-Modelling
 7.	DescStatsUnivariableModels.R Descriptive stats and univariable models
 8.	ImputationModel.R Main model based on imputed data
 9.	ImputationModelwithMGUSasControls Imputation model with MGUS cohort included as controls
