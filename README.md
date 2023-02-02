@@ -5,7 +5,7 @@ Supporting code for the manuscript
 Lesley Smith, Jonathan Carmichael, Gordon Cook, Bethany Shinkins, Richard D Neal  
 Code written by Lesley Smith 
 
-The study used de-identified data from Leeds Teaching Hospitals Trust (LTHT) and we do not have patient consent to share these data. The R code used for data formatting, cleaning and analysis is incuding in the following R scripts: 
+The study used de-identified data from Leeds Teaching Hospitals Trust (LTHT). The R code used for data formatting, cleaning and analysis is incuding in the following R scripts: 
 
 1.	FormatPatientData.R Patient level data cleaning and formatting including comorbidities
 2.	FormatBloodTest.R  Blood test data cleaning and formatting all tests in long form
